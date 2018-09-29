@@ -24,7 +24,7 @@
 
 
     ?>
-    <a href="?home">首页</a>
-    <a href="?center">个人中心</a>
+    <!--<a href="?home">首页</a>
+    <a href="?center">个人中心</a>-->
 </body>
 </html>
